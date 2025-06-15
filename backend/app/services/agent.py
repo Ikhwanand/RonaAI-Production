@@ -3,7 +3,6 @@ from agno.models.google import Gemini
 from agno.media import Image
 from agno.tools.duckduckgo import DuckDuckGoTools
 from agno.tools.baidusearch import BaiduSearchTools
-from app.ConfigEnv import config
 from agno.tools.arxiv import ArxivTools
 from agno.team.team import Team
 import os
